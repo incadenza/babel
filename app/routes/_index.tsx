@@ -39,7 +39,7 @@ export default function Index() {
             href="https://remix.run/docs"
             rel="noreferrer"
           >
-            Remix Docs
+          Hello, world
           </a>
         </li>
       </ul>
